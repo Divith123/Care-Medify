@@ -74,38 +74,6 @@ Care Medify is a modern, intuitive web application designed to streamline the ap
    http://localhost:3000
    ```
 
----
-
-## 🎯 Usage
-
-### Key Pages and Functionality
-
-1. **Home Page**:
-   - Discover featured doctors, specialties, and access the chatbot.
-   - ![Home Page](./Care-Medify/1.png)
-
-2. **Doctor Search**:
-   - Browse doctors by specialty (e.g., `/specialties/cardiology`).
-   - ![Doctor Search](./Care-Medify/2.png)
-
-3. **Appointment Booking**:
-   - Book an appointment at `/doctors/[id]/book`.
-   - ![Appointment Booking](./Care-Medify/3.png)
-
-4. **Login/Register**:
-   - Log in at `/login` or register at `/register`.
-   - ![Login Page](./Care-Medify/4.png)
-
-5. **Report Analysis**:
-   - Upload and analyze medical reports at `/report-analyze`.
-   - ![Report Analysis](./Care-Medify/5.png)
-
-6. **Chatbot Integration**:
-   - Access instant assistance via the chatbot button.
-   - ![Chatbot](./Care-Medify/6.png)
-
----
-
 ## 🔑 Patient Login Support
 
 To test the patient login functionality, use the following credentials:
