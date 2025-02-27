@@ -4,10 +4,8 @@ import { join } from "path";
 import { LlamaParseReader } from "llamaindex";
 import { processMedicalReport } from "@/lib/groq-service";
 
-export const config = {
-  api: {
-    bodyParser: false,
-  },
+export const OPTIONS = {
+  runtime: "nodejs", // or "edge" if suitable
 };
 
 export async function POST(req: NextRequest) {
