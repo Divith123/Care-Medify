@@ -110,9 +110,9 @@ Care Medify is a modern, intuitive web application designed to streamline the ap
 
 To test the patient login functionality, use the following credentials:
 
-| Email                  | Password   | Username   |
+| Email                  | Password   | Type   |
 |------------------------|------------|------------|
-| `divithselvam23@gmail.com` | `Divith123` | `Divith123` |
+| patient@gmail.com` | `12345678` | `Patient` |
 
 ### Steps to Log In:
 1. Navigate to the `/login` page.
