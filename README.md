@@ -127,12 +127,12 @@ Here are some screenshots of the application in action:
 
 | Feature               | Screenshot                          |
 |-----------------------|--------------------------------------|
-| **Home Page**         | ![Home Page](./1.png)              |
-| **Doctor Search**     | ![Doctor Search](./2.png)          |
-| **Appointment Booking** | ![Appointment Booking](./3.png)   |
-| **Login Page**        | ![Login Page](./4.png)             |
-| **Report Analysis**   | ![Report Analysis](./5.png)        |
-| **Chatbot Integration** | ![Chatbot](./6.png)               |
+| **Home Page**         | ![Home Page](./Care-Medify/1.png)              |
+| **Doctor Search**     | ![Doctor Search](./Care-Medify/2.png)          |
+| **Appointment Booking** | ![Appointment Booking](./Care-Medify/3.png)   |
+| **Login Page**        | ![Login Page](./Care-Medify/4.png)             |
+| **Report Analysis**   | ![Report Analysis](./Care-Medify/5.png)        |
+| **Chatbot Integration** | ![Chatbot](./Care-Medify/6.png)               |
 
 ---
 
