@@ -80,7 +80,7 @@ To test the patient login functionality, use the following credentials:
 
 | Email                  | Password   | Type   |
 |------------------------|------------|------------|
-| patient@gmail.com` | `12345678` | `Patient` |
+| patient@gmail.com | `12345678` | `Patient` |
 
 ### Steps to Log In:
 1. Navigate to the `/login` page.
