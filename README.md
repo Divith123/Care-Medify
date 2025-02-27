@@ -3,8 +3,6 @@
 
 Care Medify is a modern, intuitive web application designed to streamline the appointment booking process for patients and healthcare providers. Built with cutting-edge technologies like Next.js, Shadcn/ui, and Tailwind CSS, Care Medify offers a seamless user experience with features such as doctor search, appointment scheduling, report analysis, and more.
 
-![Care Medify Banner](./public/banner.png) <!-- Replace with your banner image -->
-
 ---
 
 ## 🌟 Features
@@ -84,27 +82,27 @@ Care Medify is a modern, intuitive web application designed to streamline the ap
 
 1. **Home Page**:
    - Discover featured doctors, specialties, and access the chatbot.
-   - ![Home Page](./1.png)
+   - ![Home Page](./Care-Medify/1.png)
 
 2. **Doctor Search**:
    - Browse doctors by specialty (e.g., `/specialties/cardiology`).
-   - ![Doctor Search](./2.png)
+   - ![Doctor Search](./Care-Medify/2.png)
 
 3. **Appointment Booking**:
    - Book an appointment at `/doctors/[id]/book`.
-   - ![Appointment Booking](./3.png)
+   - ![Appointment Booking](./Care-Medify/3.png)
 
 4. **Login/Register**:
    - Log in at `/login` or register at `/register`.
-   - ![Login Page](./4.png)
+   - ![Login Page](./Care-Medify/4.png)
 
 5. **Report Analysis**:
    - Upload and analyze medical reports at `/report-analyze`.
-   - ![Report Analysis](./5.png)
+   - ![Report Analysis](./Care-Medify/5.png)
 
 6. **Chatbot Integration**:
    - Access instant assistance via the chatbot button.
-   - ![Chatbot](./6.png)
+   - ![Chatbot](./Care-Medify/6.png)
 
 ---
 
